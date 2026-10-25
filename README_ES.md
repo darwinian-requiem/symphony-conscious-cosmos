@@ -16,12 +16,6 @@
 - `/texts/es/` (Código fuente segmentado en Markdown)
 - `Sinfonia_Cosmos_Consciente_Santini.pdf` (Texto íntegro)
 - `Sinfonia_Cosmos_Consciente_Santini.epub` (Texto íntegro - EPUB)
-- `01_Sinfonia_para_un_Cosmos_Consciente_Trailer_Oficial.mp4`
-- `02_Un_Fuego_Mas_Manso_La_Voz_del_Universo.mp4`
-- `03_El_Despertar_de_la_Conciencia_Cortometraje.mp4`
-- `04_El_Gran_Viaje_Pelicula.mp4`
-- `05_Tu_No_Eres_el_Observador_Short.mp4`
-- `06_Cuando_el_Frio_se_Quiebra_Cortometraje.mp4`
 - `README.md`
 
 ## 1. EL ARCO NARRATIVO: EL NACIMIENTO DE UN COSMOS CONSCIENTE
