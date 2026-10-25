@@ -16,12 +16,6 @@
 - `/texts/en/` (Segmented Markdown source code)
 - `Symphony_Conscious_Cosmos_Santini.pdf` (Unabridged text)
 - `Symphony_Conscious_Cosmos_Santini.epub` (Unabridged text - EPUB)
-- `01_Symphony_for_a_Conscious_Cosmos_Official_Trailer.mp4`
-- `02_A_Kinder_Fire_The_Voice_of_the_Universe.mp4`
-- `03_The_Awakening_of_Consciousness_Short_Film.mp4`
-- `04_The_Great_Journey_Film.mp4`
-- `05_You_Are_Not_the_Observer_Short.mp4`
-- `06_When_the_Cold_Breaks_Short_Film.mp4`
 - `README.md`
 
 ## 1. THE NARRATIVE ARC: THE BIRTH OF A CONSCIOUS COSMOS
