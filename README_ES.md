@@ -14,8 +14,12 @@
 **Concept DOI:** 10.5281/zenodo.22775378
 **Contenido de este Repositorio:**
 - `/texts/es/` (Código fuente segmentado en Markdown)
+- `/texts/en/` (Código fuente segmentado en Markdown - Inglés)
 - `Sinfonia_Cosmos_Consciente_Santini.pdf` (Texto íntegro)
 - `Sinfonia_Cosmos_Consciente_Santini.epub` (Texto íntegro - EPUB)
+- `Symphony_Conscious_Cosmos_Santini.pdf` (Texto íntegro - Inglés)
+- `Symphony_Conscious_Cosmos_Santini.epub` (Texto íntegro - Inglés EPUB)
+- `README_ES.md`
 - `README.md`
 
 ## 1. EL ARCO NARRATIVO: EL NACIMIENTO DE UN COSMOS CONSCIENTE
