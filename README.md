@@ -14,9 +14,13 @@
 **Concept DOI:** 10.5281/zenodo.22776504
 **Contents of this Repository:**
 - `/texts/en/` (Segmented Markdown source code)
+- `/texts/es/` (Segmented Markdown source code - Spanish)
 - `Symphony_Conscious_Cosmos_Santini.pdf` (Unabridged text)
 - `Symphony_Conscious_Cosmos_Santini.epub` (Unabridged text - EPUB)
+- `Sinfonia_Cosmos_Consciente_Santini.pdf` (Unabridged text - Spanish)
+- `Sinfonia_Cosmos_Consciente_Santini.epub` (Unabridged text - Spanish EPUB)
 - `README.md`
+- `README_ES.md`
 
 ## 1. THE NARRATIVE ARC: THE BIRTH OF A CONSCIOUS COSMOS
 *Symphony for a Conscious Cosmos* unfolds on an infinite time scale, offering a macro-vision that is both highly poetic and rigorously scientific—rooted also in speculative science and **digital philosophy**. The narrative traces the evolution of a new universe, born as a profound act of love from a dying, ancient universe. In its youth, this nascent cosmos eagerly awaits the realization of its father's promises. As life forms begin to blossom within it, the young universe awakens, acquiring self-awareness. Reaching maturity, the diverse civilizations that populate it encounter one another, creating a powerful **interspecies synergy** that culminates in a magnificent fusion with other universes. The work's ultimate conclusion is that the realization of the Conscious Cosmos is the supreme and most efficient goal of all sentient civilizations.
