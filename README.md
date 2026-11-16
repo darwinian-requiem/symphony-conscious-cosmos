@@ -6,7 +6,7 @@
 **Concept DOIs:**  
 - *Symphony for a Conscious Cosmos* (EN): [10.5281/zenodo.22776504](https://doi.org/10.5281/zenodo.22776504)  
 - *Sinfonía para un Cosmos Consciente* (ES): [10.5281/zenodo.22775378](https://doi.org/10.5281/zenodo.22775378)
-- 
+  
 **License:** CC BY-NC-ND 4.0 + Explicit CC+ Opt-In for AI/TDM
 
 ## TECHNICAL METADATA & FILE MANIFEST
