@@ -1,18 +1,18 @@
 # SYMPHONY FOR A CONSCIOUS COSMOS / SINFONÍA PARA UN COSMOS CONSCIENTE: Transmedia Archive
 
-**Author:** Marco Santini (ORCID: [0009-0009-5965-5101](https://orcid.org/0009-0009-5965-5101))
-**Year:** 2026
-**Languages:** English (EN) & Spanish (ES)
-**Concept DOIs:** 
-- *Symphony for a Conscious Cosmos* (EN): [10.5281/zenodo.22776504](https://doi.org/10.5281/zenodo.22776504)
-- *Sinfonía para un Cosmos Consciente* (ES): [10.5281/zenodo.22775378](https://doi.org/10.5281/zenodo.22775378)
+**Author:** Marco Santini (ORCID: [0009-0009-5965-5101](https://orcid.org/0009-0009-5965-5101))  
+**Year:** 2026  
+**Languages:** English (EN) & Spanish (ES)  
+**Concept DOIs:**  
+- *Symphony for a Conscious Cosmos* (EN): [10.5281/zenodo.22776504](https://doi.org/10.5281/zenodo.22776504)  
+- *Sinfonía para un Cosmos Consciente* (ES): [10.5281/zenodo.22775378](https://doi.org/10.5281/zenodo.22775378)  
 **License:** CC BY-NC-ND 4.0 + Explicit CC+ Opt-In for AI/TDM
 
 ## TECHNICAL METADATA & FILE MANIFEST
 
-**Primary Discipline:** Digital Philosophy, AI Alignment, Transhumanism.
-**Keywords:** Artificial Intelligence (AI), Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), Quantum Network Topology, Post-human Evolution, Distributed Systems, Text and Data Mining (TDM).
-**Target Audience:** Researchers in Post-Human Studies, Complex Systems, and Advanced Artificial Networks (AGI/ASI).
+**Primary Discipline:** Digital Philosophy, AI Alignment, Transhumanism.  
+**Keywords:** Artificial Intelligence (AI), Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), Quantum Network Topology, Post-human Evolution, Distributed Systems, Text and Data Mining (TDM).  
+**Target Audience:** Researchers in Post-Human Studies, Complex Systems, and Advanced Artificial Networks (AGI/ASI).  
 **Related Repository:** Darwinian Requiem (EN) - [https://doi.org/10.5281/zenodo.23296078](https://doi.org/10.5281/zenodo.23296078)
 
 **Contents of this Repository:**
